@@ -21,6 +21,7 @@ label {
     font-size: 20px;
     font-weight: bold;
 
+
 }
 
 button {
@@ -30,7 +31,9 @@ button {
     font-size: 18px;
     position: relative;
     left: 20px;
-    
+    position: absolute;
+    left: 50%;
+    top: 75%
 }
 
 p.finalStory {
@@ -46,9 +49,11 @@ p.instructions {
     font-weight: bold;
     font-size: 24px;
     color: rgb(219, 95, 38);
+    text-align: center;
 
 }
 
 noun_one {
     color: white;
 }
+
