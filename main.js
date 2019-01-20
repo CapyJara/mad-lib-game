@@ -49,4 +49,4 @@ function writeStory() {
 
 }
 
-writeStory();
+//writeStory();
