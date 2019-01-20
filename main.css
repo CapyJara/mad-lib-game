@@ -31,14 +31,12 @@ button {
     font-size: 18px;
     position: relative;
     left: 20px;
-    position: absolute;
-    left: 50%;
-    top: 75%
+    
 }
 
 p.finalStory {
    position: absolute;
-   left: 275px;
+   left: 350px;
    width: 570px;
    top: 250px;
    font-size: 30px;
@@ -53,7 +51,4 @@ p.instructions {
 
 }
 
-noun_one {
-    color: white;
-}
 
